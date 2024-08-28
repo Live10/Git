@@ -1,0 +1,5 @@
+on: 
+  push:
+  -Main
+  -release/*
+  workflow_dispatch:
